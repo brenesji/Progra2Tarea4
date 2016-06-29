@@ -1,0 +1,9 @@
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Nossday\Nossday\bin\Debug\Nossday.exe.config
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Nossday\Nossday\bin\Debug\Nossday.exe
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Nossday\Nossday\bin\Debug\Nossday.pdb
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Nossday\Nossday\obj\Debug\Nossday.csprojResolveAssemblyReference.cache
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Nossday\Nossday\obj\Debug\Nossday.Form1.resources
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Nossday\Nossday\obj\Debug\Nossday.Properties.Resources.resources
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Nossday\Nossday\obj\Debug\Nossday.csproj.GenerateResource.Cache
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Nossday\Nossday\obj\Debug\Nossday.exe
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Nossday\Nossday\obj\Debug\Nossday.pdb
